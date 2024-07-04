@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	height: 60px;
+	background: #db838367;
+}
+
+nav {
+	display: flex;
+	align-items: center;
+	gap: 30px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	font-weight: 400;
+	font-style: normal;
+}
+
+.social-media-links {
+	display: flex;
+	gap: 20px;
+}
+
+main {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 50px;
+	padding: 50px;
+}
+/* Styles added by the .link class */
+
+.link {
+	font-family: 'Tiny5', sans-serif;
+	padding: 15px 25px;
+	border: unset;
+	border-radius: 15px;
+	color: #212121;
+	z-index: 1;
+	background: #e8e8e8;
+	position: relative;
+	font-weight: 1000;
+	font-size: 17px;
+	-webkit-box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
+	box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
+	transition: all 250ms;
+	overflow: hidden;
+}
+
+.link::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 0;
+	border-radius: 15px;
+	background-color: #212121;
+	z-index: -1;
+	-webkit-box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
+	box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
+	transition: all 250ms;
+}
+
+.link:hover {
+	color: #e8e8e8;
+}
+
+.link:hover::before {
+	width: 100%;
+}
+
+/* User Card */
+
+.user-card {
+	width: 210px;
+	padding: 1rem;
+	background: rgb(39, 39, 39);
+	border-radius: 12px;
+	box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.123);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-start;
+	transition-duration: 0.5s;
+	gap: 1rem;
+	color: white;
+}
+
+.profile-image {
+	border-radius: 50%;
+	box-shadow: 15px 5px 10px 20px rgba(124, 35, 35, 0.329);
+}
+
+.textContainer {
+	width: 100%;
+	text-align: left;
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+
+.name {
+	font-size: 0.9em;
+	font-weight: 600;
+	letter-spacing: 0.5px;
+}
+
+.hobbies {
+	font-size: 0.84em;
+	color: rgb(167, 55, 55);
+	letter-spacing: 0.2px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.user-card:hover {
+	background-color: rgb(43, 43, 43);
+	transition-duration: 0.5s;
+}
