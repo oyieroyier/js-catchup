@@ -70,15 +70,11 @@ users.map((user) => {
 	userCard.appendChild(userImage);
 
 	const userFirstName = createAnElement('h2');
-	/*
-		This is a custom reusable function to add an attribute to an element.
-		Check the last function I have written at the bottom.
-		Here, it works the same as userFirstName.textContent = user.name.firstName would
-	*/
-	addAttribute(userFirstName, 'textContent', user.name.firstName);
+
+	userFirstName.textContent = user.name.firstName;
 
 	/* 
-		The advantage of using this custom function is that it can also be used to set a class.
+		The advantage of using this custom function to set attributes is that it can also be used to set a class, href, title, etc.
 		Here, the same function works the same as userFirstName.className = 'name' would
 	*/
 	addAttribute(userFirstName, 'class', 'name');
