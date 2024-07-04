@@ -32,3 +32,41 @@ const socialMediaLinks = [
 		icon: `<i class="fa-brands fa-dribbble"></i>`,
 	},
 ];
+
+const navBar = document.querySelector('nav');
+
+const result = menuLinks.map((link) => {
+	const navLink = document.createElement('a');
+	navLink.href = '#';
+	navLink.textContent = link;
+
+	navBar.appendChild(navLink);
+});
+
+const socialMediaContainer = document.querySelector('.social-media-links');
+
+socialMediaLinks.forEach((socialMediaLink) => {
+	const link = document.createElement('a');
+
+	link.href = socialMediaLink.linkUrl;
+	link.innerHTML = socialMediaLink.icon + ' ' + socialMediaLink.linkName;
+
+	link.className = 'link';
+
+
+	socialMediaContainer.appendChild(link);
+});
+
+const mainHeading = document.createElement('h1');
+
+mainHeading.textContent = 'This is a JS Catchup Session';
+
+// const mainTag = document.querySelector('main');
+
+const sectionTag = document.createElement('section');
+
+sectionTag.appendChild(mainHeading);
+
+const body = document.querySelector('body');
+
+body.appendChild(sectionTag);
