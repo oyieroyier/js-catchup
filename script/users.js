@@ -42,316 +42,6 @@ const users = [
 		hobbies: ['reading', 'hiking', 'painting'], // p
 		image: 'https://placeholder.com/100x100', // img
 	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
-	{
-		name: {
-			firstName: 'Alice', // h2
-			lastName: 'Makori', // h3
-		},
-		age: 40, // p
-		occupation: 'Designer', // p
-		hobbies: ['reading', 'hiking', 'painting'], // p
-		image: 'https://placeholder.com/100x100', // img
-	},
 ];
 
 const mainTag = document.querySelector('main');
@@ -362,14 +52,36 @@ users.map((user) => {
 	appendAnElement(userCard, mainTag);
 	userCard.className = 'user-card';
 
+	/*
+		This is a custom reusable function to create element.
+		Check the first function I have written at the bottom.
+		Here, it works the same as document.createElement("img") would
+	*/
 	const userImage = createAnElement('img');
-	userImage.src = user.image;
+
+	/*
+		This is a custom reusable function to add an attribute to an element.
+		Check the last function I have written at the bottom.
+		Here, it works the same as userImage.src = user.image would
+	*/
+	addAttribute(userImage, 'src', user.image);
+
 	userImage.className = 'profile-image';
 	userCard.appendChild(userImage);
 
 	const userFirstName = createAnElement('h2');
-	userFirstName.textContent = user.name.firstName;
-	userFirstName.className = 'name';
+	/*
+		This is a custom reusable function to add an attribute to an element.
+		Check the last function I have written at the bottom.
+		Here, it works the same as userFirstName.textContent = user.name.firstName would
+	*/
+	addAttribute(userFirstName, 'textContent', user.name.firstName);
+
+	/* 
+		The advantage of using this custom function is that it can also be used to set a class.
+		Here, the same function works the same as userFirstName.className = 'name' would
+	*/
+	addAttribute(userFirstName, 'class', 'name');
 	userCard.appendChild(userFirstName);
 
 	const userSecondName = createAnElement('h3');
@@ -390,10 +102,19 @@ users.map((user) => {
 	userCard.appendChild(age);
 });
 
+// You can define custom functions to avoid too much repetition.
+
+// This function creates an element
 function createAnElement(elementName) {
 	return document.createElement(elementName);
 }
 
+// This function appends an element
 function appendAnElement(childElement, parentElement) {
 	return parentElement.appendChild(childElement);
+}
+
+// This function adds an attribute to an element
+function addAttribute(element, attribute, value) {
+	return element.setAttribute(attribute, value);
 }
